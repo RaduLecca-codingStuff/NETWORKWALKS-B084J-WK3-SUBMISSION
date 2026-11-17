@@ -3,7 +3,7 @@
 
 ### Project overview
 
-This the third weekly lab assignment for the Networkwalks' Cybersecurity programme. The goal of the project is to perform commonly used password cracking procedures on a set of password-protected PDF files, provided by Networkwalks, in a controlled setting.
+This the third weekly lab assignment for the Networkwalks' cybersecurity programme. The goal of the project is to perform commonly used password cracking procedures on a set of password-protected PDF files, provided by Networkwalks, in a controlled setting.
 Submission consists of the following:
 - The password-protected PDF files associated
 - Screenshots of the tools used for each method
